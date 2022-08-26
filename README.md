@@ -16,7 +16,7 @@ Model
 * create migrations and migrate data
 * create a super user
 * run development server
-Add a few snacks via Admin panel
-create another user and more snacks via Admin panel
-confirm that snacks behave as expected with proper name, purchaser and description.
-Looks like your model in good shape. Congrats!
+* Add a few snacks via Admin panel
+* create another user and more snacks via Admin panel
+* confirm that snacks behave as expected with proper name, purchaser and description.
+* Looks like your model in good shape. Congrats!
