@@ -6,6 +6,6 @@ urlpatterns = [
 
     #int reps primary key
     path("<int:pk>",SnackDetailView.as_view(), name="snack_detail")
-    #home route
+
 ]
 

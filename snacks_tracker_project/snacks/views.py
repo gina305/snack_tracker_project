@@ -6,6 +6,7 @@ from django.views.generic import ListView, DetailView
 
 
 
+
 class SnackListView(ListView):
 	template_name =  "snack_list.html"
 	model = Snack# associate a a model to this vie. Define
